@@ -1,1 +1,3 @@
 Bahaa making file2
+
+adding newline after file3
